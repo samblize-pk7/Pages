@@ -1,5 +1,6 @@
-# Nuxt-them007
-
+# Pages
+this is a UI Portfolio Project with Vue/Nuxt.
+I use *Tailwinds* and *Sass* for style.
 ## Build Setup
 
 ```bash
